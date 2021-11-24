@@ -1,0 +1,14 @@
+{
+  "format": "{player} used {item} at {location} in {world}",
+
+  "printToConsole": true,
+  "logToFile": true,
+  "alertOperators": true,
+
+  "blocks": [
+    "TNT"
+  ],
+  "items": [
+    "FLINT_AND_STEEL"
+  ]
+}
