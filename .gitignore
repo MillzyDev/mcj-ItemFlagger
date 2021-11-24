@@ -9,3 +9,33 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+# maven
+apache-maven-*
+
+# minecraft server
+BuildData/
+Bukkit/
+CraftBukkit/
+logs/
+plugins/
+Spigot/
+work/
+world*/
+
+banned-*
+bukkit*
+commands*
+eula.txt
+*.yml
+ops.json
+*.properties
+usercache.json
+whitelist.json
+
+*.jar
+
+BuildTools*
+
+# additional ide stuff
+.idea/
